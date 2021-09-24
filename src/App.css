@@ -1,0 +1,8 @@
+.containers{
+    display: flex;
+    margin-top: 10px;
+}
+
+.mainpage{
+    flex: 4;
+}
